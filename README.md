@@ -5,3 +5,5 @@ The plot below collects all the measurements we've made of Earth's circumference
 - Can you find your estimates on here? 
 - What do you notice about estimates made with different numbers of steps? 
 - How does the average of our estimates compare to the true value of Earth's circumference (4x10^7 m)?
+
+(These are just questions to pique your curiosity. There's no need to submit answers to them.)
